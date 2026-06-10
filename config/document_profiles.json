@@ -1,0 +1,20 @@
+{
+  "ISMS-POL-INC-001": {
+    "sections": [
+      "Purpose",
+      "Scope",
+      "Definitions",
+      "Roles and Responsibilities",
+      "Incident Identification and Reporting",
+      "Incident Assessment and Classification",
+      "Incident Response",
+      "Evidence Collection",
+      "Lessons Learned",
+      "Monitoring and Enforcement",
+      "Exceptions",
+      "Compliance Requirements",
+      "Review Requirements",
+      "References"
+    ]
+  }
+}
